@@ -53,6 +53,7 @@
     }
   ],
   "devDependencies": {
+    "@types/react-test-renderer": "^17.0.1",
     "@babel/preset-env": "^7.16.11",
     "@babel/preset-react": "^7.16.7",
     "@rollup/plugin-image": "^2.1.1",
@@ -80,7 +81,6 @@
     "silvestri"
   ],
   "dependencies": {
-    "@types/react-test-renderer": "^17.0.1"
   },
   "jest": {
     "moduleNameMapper": {
